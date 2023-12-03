@@ -7,4 +7,4 @@ Greetings, fellow coders! 🌟 I've added a touch of holiday spirit to this repo
 3. Adjust parameters to personalize the Christmas tree's appearance.
 4. Spread the holiday cheer! 🚀
 ```
-![video_file](https://github.com/SaysWis/Chritsmas_tree/blob/main/tree.png)(https://github.com/SaysWis/Chritsmas_tree/blob/main/myVideoFile.avi)
+![video_file](https://github.com/SaysWis/Chritsmas_tree/blob/main/tree.png)

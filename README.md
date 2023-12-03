@@ -7,3 +7,4 @@ Greetings, fellow coders! 🌟 I've added a touch of holiday spirit to this repo
 3. Adjust parameters to personalize the Christmas tree's appearance.
 4. Spread the holiday cheer! 🚀
 ```
+![](myVideoFile.avi)
